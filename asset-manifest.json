@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/MTNclone/static/css/main.46134d71.css",
+    "main.js": "/MTNclone/static/js/main.61f6c9f0.js",
+    "static/media/play4.jpeg": "/MTNclone/static/media/play4.b4908a86b57d969f60e5.jpeg",
+    "static/media/headerBG4.jpeg": "/MTNclone/static/media/headerBG4.b4911a587399a3570f2f.jpeg",
+    "static/media/person1.jpg": "/MTNclone/static/media/person1.6ac03438e6d23767bbc3.jpg",
+    "static/media/play2.jpg": "/MTNclone/static/media/play2.3236b739e0a83c410319.jpg",
+    "static/media/couple.jpg": "/MTNclone/static/media/couple.2db8a206c2d04c9391e1.jpg",
+    "static/media/headerBG3.jpg": "/MTNclone/static/media/headerBG3.e8b6e3a4e41110870a53.jpg",
+    "static/media/person4.jpg": "/MTNclone/static/media/person4.cacd7def90980f46b788.jpg",
+    "static/media/person5.jpg": "/MTNclone/static/media/person5.9af7bf8ebe86df77f2ef.jpg",
+    "static/media/play5.jpg": "/MTNclone/static/media/play5.2f1251e4bbac89297737.jpg",
+    "static/media/momo2.jpg": "/MTNclone/static/media/momo2.9b3f8539a79dca46a0c9.jpg",
+    "static/media/headerBG.jpeg": "/MTNclone/static/media/headerBG.430dfd84804395f24993.jpeg",
+    "static/media/play1.jpeg": "/MTNclone/static/media/play1.59fdb7fdbc07ab095d83.jpeg",
+    "static/media/person6.jpg": "/MTNclone/static/media/person6.b3a5702f8457e7f140c4.jpg",
+    "static/media/headerBG2.jpg": "/MTNclone/static/media/headerBG2.01e7f4537ae5a1d2186f.jpg",
+    "static/media/business2.jpg": "/MTNclone/static/media/business2.a1eef404d9c9c5118f4e.jpg",
+    "static/media/business3.jpg": "/MTNclone/static/media/business3.633eba12ee7003e7c352.jpg",
+    "static/media/person3.jpg": "/MTNclone/static/media/person3.16600350a3f64739623a.jpg",
+    "static/media/business1.jpg": "/MTNclone/static/media/business1.f2821ca38a301acd03c9.jpg",
+    "static/media/momo1.jpg": "/MTNclone/static/media/momo1.1369d27abf4dd9d447b3.jpg",
+    "static/media/play3.jpg": "/MTNclone/static/media/play3.6adbfeaa357ca714e867.jpg",
+    "static/media/momo3.jpg": "/MTNclone/static/media/momo3.0ea71789f88f954e0fbe.jpg",
+    "static/media/momo4.jpg": "/MTNclone/static/media/momo4.f3c9372f7aae3a7f49ab.jpg",
+    "index.html": "/MTNclone/index.html",
+    "main.46134d71.css.map": "/MTNclone/static/css/main.46134d71.css.map",
+    "main.61f6c9f0.js.map": "/MTNclone/static/js/main.61f6c9f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46134d71.css",
+    "static/js/main.61f6c9f0.js"
+  ]
+}
